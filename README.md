@@ -3,11 +3,12 @@
 In this project, I compared the power consumption of a stock Raspberry Pi 4
 running on a 30,000mAh battery pack with
 [cellular connectivity](https://blues.io/products/) to a Raspberry Pi configured
-with a variety of [power optimization settings](NEEDLINK).
+with a variety of
+[power optimization settings](https://blues.io/blog/tips-tricks-optimizing-raspberry-pi-power/?utm_source=github&utm_medium=web&utm_campaign=featured-project&utm_content=battery-raspberry-pi).
 
 > Watch an [intro video](https://youtu.be/xjWqCkc_h7A) and then view the
 > complete tutorial over at
-> [Hackster.io](https://blues.io/blog/tips-tricks-optimizing-raspberry-pi-power/?utm_source=github&utm_medium=web&utm_campaign=featured-project&utm_content=battery-raspberry-pi)!
+> [Hackster.io](https://www.hackster.io/rob-lauer/optimizing-a-raspberry-pi-for-off-grid-power-consumption-22cec6)!
 
 ![completed project](rpi-and-notecarrier.jpg)
 
